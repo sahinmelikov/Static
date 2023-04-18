@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Masaüstü\static\static\bin\Debug\net6.0\staticInterface.exe
+C:\Users\555\OneDrive\Masaüstü\static\static\bin\Debug\net6.0\staticInterface.deps.json
+C:\Users\555\OneDrive\Masaüstü\static\static\bin\Debug\net6.0\staticInterface.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\static\static\bin\Debug\net6.0\staticInterface.dll
+C:\Users\555\OneDrive\Masaüstü\static\static\bin\Debug\net6.0\staticInterface.pdb
+C:\Users\555\OneDrive\Masaüstü\static\static\obj\Debug\net6.0\staticInterface.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\static\static\obj\Debug\net6.0\staticInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\static\static\obj\Debug\net6.0\staticInterface.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\static\static\obj\Debug\net6.0\staticInterface.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\static\static\obj\Debug\net6.0\staticInterface.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\static\static\obj\Debug\net6.0\staticInterface.dll
+C:\Users\555\OneDrive\Masaüstü\static\static\obj\Debug\net6.0\refint\staticInterface.dll
+C:\Users\555\OneDrive\Masaüstü\static\static\obj\Debug\net6.0\staticInterface.pdb
+C:\Users\555\OneDrive\Masaüstü\static\static\obj\Debug\net6.0\staticInterface.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\static\static\obj\Debug\net6.0\ref\staticInterface.dll
